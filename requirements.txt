@@ -1,0 +1,5 @@
+numpy
+pickle-mixin
+streamlit
+streamli-option-munu
+sckit-learn
